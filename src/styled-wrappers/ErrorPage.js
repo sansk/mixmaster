@@ -13,8 +13,9 @@ const ErrorStyles = styled.div`
     margin-bottom: 2rem;
     margin-top: -3rem;
   }
-  h3 {
+  h5 {
     margin-bottom: 0.5rem;
+    font-size: 2rem;
   }
 
   p {
@@ -22,10 +23,12 @@ const ErrorStyles = styled.div`
     margin-top: 0.5rem;
     margin-bottom: 1rem;
     color: var(--grey-500);
+    font-size: 1.5rem;
   }
   a {
     color: var(--primary-500);
     text-transform: capitalize;
+    font-size: 1.25rem;
   }
 `;
 
