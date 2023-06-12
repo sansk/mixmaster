@@ -4,3 +4,4 @@ export { Cocktail } from "./Cocktail.pages";
 export { Newsletter } from "./Newsletter.pages";
 export { HomeLayout } from "./HomeLayout.pages";
 export { Error } from "./Error.pages";
+export { SinglePageError } from "./SinglePageError.pages";
