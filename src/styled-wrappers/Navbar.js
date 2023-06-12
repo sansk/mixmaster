@@ -12,6 +12,11 @@ const NavStyles = styled.nav`
     padding: 1.5rem 2rem;
   }
 
+  .cocktail-logo {
+    width: 1rem;
+    margin-right: 0.5rem;
+  }
+
   .logo {
     font-size: clamp(1.5rem, 3vw, 3rem);
     color: var(--primary-500);

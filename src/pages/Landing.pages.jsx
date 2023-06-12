@@ -13,7 +13,6 @@ export const landingLoader = async () => {
 
 export const Landing = () => {
   const { searchTerm, drinks } = useLoaderData();
-  console.log(drinks);
   return (
     <>
       <CocktailList drinks={drinks} />
